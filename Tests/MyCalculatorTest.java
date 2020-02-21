@@ -1,5 +1,5 @@
-package calculator;
-
+package calculator.Tests;
+import calculator.Classes.MyCalculator;
 import org.junit.jupiter.api.Test;
 import org.testng.Assert;
 

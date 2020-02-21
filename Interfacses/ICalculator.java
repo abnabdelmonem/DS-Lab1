@@ -1,4 +1,4 @@
-package calculator;
+package calculator.Interfacses;
 
 public interface ICalculator {
     int add(int x, int y);

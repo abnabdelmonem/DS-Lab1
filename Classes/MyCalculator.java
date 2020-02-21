@@ -1,5 +1,5 @@
-package calculator;
-
+package calculator.Classes;
+import calculator.Interfacses.ICalculator;
 public class MyCalculator implements ICalculator {
     public int add(int x, int y) {
         return x + y;
